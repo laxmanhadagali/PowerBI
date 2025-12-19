@@ -29,4 +29,11 @@ This is part of my **Data Science preparation** and helps me track consistent le
 - Created basic visuals:
   - Table
   - Bar Chart
-  
+###  Day 2 – Visuals, Hierarchies & Interactivity
+- Applied conditional formatting
+- Created and used hierarchies
+- Added slicers for filtering
+- Designed KPI cards
+- Built line chart with date hierarchy
+- Implemented drill-down and drill-through
+
