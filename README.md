@@ -37,3 +37,14 @@ This is part of my **Data Science preparation** and helps me track consistent le
 - Built line chart with date hierarchy
 - Implemented drill-down and drill-through
 
+###  Day 3 – DAX Basics
+- Created calculated columns
+- Created measures using DAX:
+  - SUM
+  - COUNT
+  - AVERAGE
+- Created calculated columns
+  - TotalSales
+  - Year,Quarter,Month
+  - Weekday,WeekEnd
+- Difference between column and measure
