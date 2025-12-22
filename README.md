@@ -48,3 +48,9 @@ This is part of my **Data Science preparation** and helps me track consistent le
   - Year,Quarter,Month
   - Weekday,WeekEnd
 - Difference between column and measure
+###  Day 4 – DAX Functions, Logic & Analysis
+- Used `DATEDIFF` function to calculate date differences
+- Implemented **Nested IF** conditions for logical decision-making
+- Applied **grouping** to categorize data
+- Calculated **percentage values** for analysis and comparison
+- Improved understanding of business logic using DAX
