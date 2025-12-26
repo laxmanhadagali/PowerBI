@@ -54,3 +54,10 @@ This is part of my **Data Science preparation** and helps me track consistent le
 - Applied **grouping** to categorize data
 - Calculated **percentage values** for analysis and comparison
 - Improved understanding of business logic using DAX
+
+###  Day 5 – Sales Analysis & Ranking
+- Calculated total sales for each country
+- Ranked countries based on total sales
+- Created measures to calculate sum of sales
+- Performed aggregation for comparative analysis
+
